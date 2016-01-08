@@ -6,7 +6,7 @@ logLevel := Level.Warn
 // The Typesafe repository
 resolvers += "Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/"
 
-addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.2.0")
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.4.6")
 
 resolvers += "Sonatype snapshots" at "http://oss.sonatype.org/content/repositories/snapshots/"
 
